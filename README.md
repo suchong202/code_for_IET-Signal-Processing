@@ -12,4 +12,4 @@ In Code:
 5:"mediapipe":the code for mediapipe and the code for kinematic feature extraction(Calculate angles, distances, and spatial position information between joints)；  
 6:"flow":the code for optical flow processing;  
 7:"Supplementary experiments":the whole code for the supplementary experiments(Including hyperparameter validation, attention module validation)；  
-8：other code：the code for comparison experiments.
+8:other code：the code for comparison experiments.
