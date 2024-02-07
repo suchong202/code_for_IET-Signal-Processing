@@ -1,11 +1,11 @@
 In Dataset:  
 1: "rgb": the rgb dataset of MAM;  
 2: "skeleton": the skeleton dataset of MAM;  
-3: "optical flow": the optical flow of MAM;  
-4: "video": the complete video data.  
+3: "optical flow": the optical flow dataset of MAM;  
+4: "video": the complete video dataset.  
 
 In Code:  
-1: "data_process": the code  for data preprocessing，divide the sample proportion for training;  
+1: "data_process": the code  for data preprocessing, dividing the sample proportion for training;  
 2: "our_attention": the complete code for our proposed "IAM";  
 3: "MyModel": the code for our backbone network;  
 4: "train": the code for network training;  
